@@ -1,0 +1,5 @@
+names:
+- License Plate
+nc: 1
+train: ../data/train
+val: ../data/val
