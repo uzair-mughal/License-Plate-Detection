@@ -19,7 +19,7 @@ YOLOv5 based License Plate Detection model that can be used to detect License Pl
   </tr>
    <tr>
     <td><img src="https://github.com/uzairmughal20/License-Plate-Detection/blob/master/test_images/Cars38.png" width="200" height="150"></td>
-    <td><img src="https://github.com/uzairmughal20/License-Plate-Detection/blob/master/result_images/Cars39.png" width="200" height="150"></td>
+    <td><img src="https://github.com/uzairmughal20/License-Plate-Detection/blob/master/result_images/Cars38.png" width="200" height="150"></td>
   </tr>
   <tr>
     <td><img src="https://github.com/uzairmughal20/License-Plate-Detection/blob/master/test_images/Cars47.png" width="200" height="150"></td>
